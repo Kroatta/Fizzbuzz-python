@@ -24,7 +24,6 @@ test_fizz_buzz.py # Testes automatizados com pytest
 
 No terminal ou CMD, execute:
 
-```bash
 python fizz_buzz.py
 
 🧪 Como testar
@@ -32,14 +31,6 @@ python fizz_buzz.py
 Se tiver o pytest instalado, execute:
 
 pytest
-👨‍💻 Autor
-Desenvolvido por Seu Nome
-
-
-Se quiser que eu personalize com seu nome de usuário do GitHub, só me diga que eu edito pra você! Deseja isso?
-
-
-
 
 
 

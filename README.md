@@ -20,17 +20,7 @@ test_fizz_buzz.py # Testes automatizados com pytest
 
 ---
 
-## ✅ Como executar
 
-No terminal ou CMD, execute:
-
-python fizz_buzz.py
-
-🧪 Como testar
-
-Se tiver o pytest instalado, execute:
-
-pytest
 
 
 

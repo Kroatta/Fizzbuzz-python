@@ -18,10 +18,6 @@ Imprimir os números de 1 a 100, com as seguintes regras:
 fizz_buzz.py # Código principal com a classe FizzBuzz
 test_fizz_buzz.py # Testes automatizados com pytest
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## ✅ Como executar
@@ -33,16 +29,10 @@ python fizz_buzz.py
 🧪 Como testar
 Se tiver o pytest instalado, execute:
 
-bash
-Copiar
-Editar
 pytest
 👨‍💻 Autor
 Desenvolvido por Seu Nome
 
-vbnet
-Copiar
-Editar
 
 Se quiser que eu personalize com seu nome de usuário do GitHub, só me diga que eu edito pra você! Deseja isso?
 

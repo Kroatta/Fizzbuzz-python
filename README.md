@@ -26,7 +26,9 @@ No terminal ou CMD, execute:
 
 ```bash
 python fizz_buzz.py
+
 🧪 Como testar
+
 Se tiver o pytest instalado, execute:
 
 pytest
